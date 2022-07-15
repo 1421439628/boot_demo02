@@ -19,6 +19,7 @@ public class BootDemo02Application {
         ConfigurableApplicationContext run = SpringApplication.run(BootDemo02Application.class, args);
         JdbcTemplate bean = run.getBean(JdbcTemplate.class);
         System.out.println(bean);
+        System.out.println("master");
     }
 
 }
