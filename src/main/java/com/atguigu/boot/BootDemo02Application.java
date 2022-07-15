@@ -22,6 +22,7 @@ public class BootDemo02Application {
         System.out.println("master");
         System.out.println("hot-fix");
         System.out.println("change 23:26");
+        System.out.println("change from github");
     }
 
 }
