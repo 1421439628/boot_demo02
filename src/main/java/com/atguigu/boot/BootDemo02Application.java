@@ -21,6 +21,7 @@ public class BootDemo02Application {
         System.out.println(bean);
         System.out.println("master");
         System.out.println("hot-fix");
+        System.out.println("change 23:26");
     }
 
 }
