@@ -20,6 +20,7 @@ public class BootDemo02Application {
         JdbcTemplate bean = run.getBean(JdbcTemplate.class);
         System.out.println(bean);
         System.out.println("master");
+        System.out.println("hot-fix");
     }
 
 }
